@@ -57,7 +57,7 @@ To set up and run the Data Modeling Project using Databricks and PySpark, follow
 1. **Clone the Repository**
    - Clone the repository to your Databricks environment:
    ```bash
-   git clone https://github.com/sarfarazalamgit/Data-Modeling-Project-with-Databricks-and-PySpark.git
+   git clone https://github.com/sarfarazalamgit/data-modeling-project-with-databricks-and-pyspark.git
 
 2. **Create a New Databricks Cluster**
    - Log in to your Databricks account and navigate to the **Clusters** section.
